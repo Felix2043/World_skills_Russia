@@ -1,0 +1,21 @@
+Учетки пред настройки                 GOGS;
+demouser1@oatk.org            DemoTestUser1 ;kryz52Ar
+demouser2@oatk.org            DemoTestUser2 ;HxPCNHcT
+demouser3@oatk.org            DemoTestUser3 ;BUc6DApp
+demouser4@oatk.org            DemoTestUser4 ;VtEZ8Zi9
+demouser5@oatk.org            DemoTestUser5 ;zxkopzMT
+demouser6@oatk.org            DemoTestUser6 ;IDfN5ETC
+demouser7@oatk.org            DemoTestUser7 ;RUXluJo3
+demouser8@oatk.org            DemoTestUser8 ;OyVOM360
+demouser9@oatk.org            DemoTestUser9 ;u5gY9oiu
+demouser10@oatk.org           DemoTestUser10 ;yHgycO53
+demouser11@oatk.org           DemoTestUser11 ;kEaMSUpG
+demouser12@oatk.org           DemoTestUser12 ;nU3THyZY
+demouser13@oatk.org           DemoTestUser13 ;GxzX8uyK
+
+
+
+https://try.gogs.io/GrandDemoResrv/DEMOTEST.git
+
+
+ SqlConnection connection = new SqlConnection(@"Data source = M11-00\SQLEXPRESS2021; initial catalog = user2;user id = user2;password = oatkuser2;integrated security = false;");
